@@ -119,7 +119,7 @@ const Dashboard
               <div>
                 <img src={UltraViolet} alt="" />
                 <div>
-                  <span>Ultravoilet</span>
+                  <span>Ultraviolet </span>
                   <span>Heavy</span>
                 </div>
               </div>
